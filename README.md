@@ -1,6 +1,7 @@
+<div align="center">
 ![Bienvenue GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBza3hvNW1tNGh3eXJ0ODRmbnIwOW82eWQ3cDFoY2szeWZzZGx2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduOXu3DBfTazzaw/giphy.gif)
-
-#  Hi, i'm Mehdi 👋  !
+</div>
+<h1 align="center">Hi, i'm Mehdi 👋  !</h1>
 
 ## 🌐 About me
 
